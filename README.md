@@ -1,3 +1,3 @@
 # CoderByte-Challanges-Solution-Python 
 
-Solution are included are Easy, Medium and Hard level.
+Solutions are for Easy, Medium and Hard level coderbyte challanges.
